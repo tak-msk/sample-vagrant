@@ -1,1 +1,5 @@
+data/boardingBack/node_modules
+*.sublime-*
+*.orig
+*.DS_Store
 .vagrant/
